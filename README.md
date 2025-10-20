@@ -247,7 +247,6 @@ A: 当前版本使用页面中的文件路径。如需自定义，可以修改 `
 如有问题或建议，请通过以下方式联系：
 
 - 提交 Issue: [GitHub Issues](https://github.com/rcnn/code-save-file/issues)
-- Email: your-email@example.com
 
 ---
 
